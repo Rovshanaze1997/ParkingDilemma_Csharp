@@ -1,0 +1,15 @@
+C:\Users\Rovshan\RiderProjects\ParkingDilemma\ParkingDilemma\bin\Debug\net6.0\ParkingDilemma.exe
+C:\Users\Rovshan\RiderProjects\ParkingDilemma\ParkingDilemma\bin\Debug\net6.0\ParkingDilemma.deps.json
+C:\Users\Rovshan\RiderProjects\ParkingDilemma\ParkingDilemma\bin\Debug\net6.0\ParkingDilemma.runtimeconfig.json
+C:\Users\Rovshan\RiderProjects\ParkingDilemma\ParkingDilemma\bin\Debug\net6.0\ParkingDilemma.dll
+C:\Users\Rovshan\RiderProjects\ParkingDilemma\ParkingDilemma\bin\Debug\net6.0\ParkingDilemma.pdb
+C:\Users\Rovshan\RiderProjects\ParkingDilemma\ParkingDilemma\obj\Debug\net6.0\ParkingDilemma.csproj.AssemblyReference.cache
+C:\Users\Rovshan\RiderProjects\ParkingDilemma\ParkingDilemma\obj\Debug\net6.0\ParkingDilemma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rovshan\RiderProjects\ParkingDilemma\ParkingDilemma\obj\Debug\net6.0\ParkingDilemma.AssemblyInfoInputs.cache
+C:\Users\Rovshan\RiderProjects\ParkingDilemma\ParkingDilemma\obj\Debug\net6.0\ParkingDilemma.AssemblyInfo.cs
+C:\Users\Rovshan\RiderProjects\ParkingDilemma\ParkingDilemma\obj\Debug\net6.0\ParkingDilemma.csproj.CoreCompileInputs.cache
+C:\Users\Rovshan\RiderProjects\ParkingDilemma\ParkingDilemma\obj\Debug\net6.0\ParkingDilemma.dll
+C:\Users\Rovshan\RiderProjects\ParkingDilemma\ParkingDilemma\obj\Debug\net6.0\refint\ParkingDilemma.dll
+C:\Users\Rovshan\RiderProjects\ParkingDilemma\ParkingDilemma\obj\Debug\net6.0\ParkingDilemma.pdb
+C:\Users\Rovshan\RiderProjects\ParkingDilemma\ParkingDilemma\obj\Debug\net6.0\ParkingDilemma.genruntimeconfig.cache
+C:\Users\Rovshan\RiderProjects\ParkingDilemma\ParkingDilemma\obj\Debug\net6.0\ref\ParkingDilemma.dll
